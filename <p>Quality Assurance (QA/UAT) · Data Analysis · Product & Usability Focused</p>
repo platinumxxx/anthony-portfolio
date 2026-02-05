@@ -1,0 +1,39 @@
+<section>
+  <h2>Projects</h2>
+
+  <h3>Quality Assurance & Product Testing</h3>
+  <ul>
+    <li>
+      <strong>WAQT – Productivity App QA / UAT</strong><br/>
+      Conducted exploratory and functional testing on core task workflows, identified usability gaps, and provided actionable feedback to improve user clarity and task flow.
+    </li>
+    <li>
+      <strong>Scrumboy – Web App Testing & Product Feedback</strong><br/>
+      Tested a kanban-style task management application, validated tagging and search behavior, and documented feature enhancement recommendations based on user experience.
+    </li>
+    <li>
+      <strong>FRAME Groove Machine – Music App Testing</strong><br/>
+      Performed UI and functional testing focused on playback behavior, responsiveness, and stability across typical user interactions.
+    </li>
+  </ul>
+
+  <h3>Data Analysis & Market Research</h3>
+  <ul>
+    <li>
+      <strong>Gold & Silver Market Analysis</strong><br/>
+      Developing short-form analysis on precious metals, focusing on macroeconomic drivers, inflation trends, and historical pricing behavior.
+    </li>
+    <li>
+      <strong>USD & Federal Reserve Analysis</strong><br/>
+      Researching U.S. dollar dynamics, monetary policy signals, and interest-rate impacts using a structured analytical approach.
+    </li>
+    <li>
+      <strong>Bitcoin & Crypto Market Analysis</strong><br/>
+      Analyzing digital asset trends and narratives with an emphasis on risk factors, volatility, and macro correlations.
+    </li>
+  </ul>
+</section>
+
+<p>
+  My analysis work emphasizes clarity, structure, and evidence-based reasoning, similar to how I approach quality assurance and product validation.
+</p>
